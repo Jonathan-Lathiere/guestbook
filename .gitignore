@@ -10,5 +10,5 @@
 ###< symfony/framework-bundle ###
 
 /.idea/
-
 /.php_cs.cache
+/public/uploads
