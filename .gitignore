@@ -12,3 +12,5 @@
 /.idea/
 /.php_cs.cache
 /public/uploads
+
+/config/secrets/dev/dev.decrypt.private.php
