@@ -13,4 +13,10 @@
 /.php_cs.cache
 /public/uploads
 
-/config/secrets/dev/dev.decrypt.private.php
+/config/secrets/*/*.decrypt.private.php
+
+###> symfony/phpunit-bridge ###
+.phpunit
+.phpunit.result.cache
+/phpunit.xml
+###< symfony/phpunit-bridge ###
